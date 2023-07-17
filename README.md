@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bruno Silva
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning electron.js
+- 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me use a Palantír 🔮
 
