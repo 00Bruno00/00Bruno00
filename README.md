@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Bruno Silva
+- 👋 Hi, I’m B.Silva
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning a mindset
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me use a Palantír 🔮
+- 📫 How to reach me? Use a Palantír 🔮
 
 <!---
 User3ds/User3ds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
