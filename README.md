@@ -1,5 +1,5 @@
 - 👋 Hi, I’m B.Silva
-- 👀 I’m interested in web development
+- 👀 I’m interested in technology
 - 🌱 I’m currently learning a mindset
 - 🤝 I’m looking to collaborate on any project
 - 📫 How to reach me? Use a Palantír 🔮
