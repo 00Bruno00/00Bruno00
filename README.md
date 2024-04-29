@@ -1,4 +1,4 @@
-- 👋 Hi, I’m B.Silva
+- 👋 Hi, I’m Bruno Silva
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning a mindset
 - 🤝 I’m looking to collaborate on any project
