@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Bruno Silva
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning a mindset + Angular + Ionic + PWA
+- 🌱 I’m currently learning a mindset
 - 🤝 I’m looking to collaborate on any project
-- 📫 How to reach me? Use a Palantír 🔮
+- 📫 How to reach me? [BSILVA.CH](https://www.bsilva.ch/)
  
 
 <!---
